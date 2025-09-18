@@ -1,0 +1,17 @@
+.hero {
+ background: linear-gradient(135deg, #4361ee, #3f37c9);
+ padding: 2rem;
+ color: white;
+}
+textarea {
+42
+ width: 100%;
+ margin: 1rem 0;
+ padding: 1rem;
+}
+#resultBadge {
+ font-weight: bold;
+ padding: 0.5rem;
+}
+.progress-bar.bg-danger { background-color: #ef476f; }
+.progress-bar.bg-success { background-color: #06d6a0; }
